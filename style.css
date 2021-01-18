@@ -112,7 +112,7 @@ body {
 
 @media (max-width: 576px) {
   .contacts {
-    right: 0;
+    right: auto;
     bottom: 10px;
   }
 }
@@ -137,5 +137,3 @@ body {
 .contact_link:last-child::before {
   content: url("email.svg");
 }
-
-/*# sourceMappingURL=style.css.map */
